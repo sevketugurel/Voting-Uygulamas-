@@ -84,3 +84,6 @@ while (true)
 ```
 
 Feel free to explore and enhance this Voting App according to your needs!
+
+<img width="532" alt="Ekran Resmi 2023-11-27 ÖS 6 00 08" src="https://github.com/sevketugurel/Voting-Uygulamasi/assets/118289177/11ac2a4a-0190-470c-b066-6c5976c329b3">
+
